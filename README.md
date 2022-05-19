@@ -1,4 +1,4 @@
-# Codemark
+# Profit Calculator
 
 ## Kullanılan Diller
 - React
@@ -11,9 +11,7 @@ React Native
 
 * Anlık olarak kar-zarar toplamı ve net durmu hesaplama
 
-<img src='./Demo/Demo.gif' width='500' height='1100' > 
-
-
+https://user-images.githubusercontent.com/103508575/169371971-515e9b42-34b3-442c-9821-6beb47000640.mp4
 
 ## Başlangıç
 Bu depoyu yerel makinenizde klonlayın.
