@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/103508575/169371971-515e9b42-34b3-442c
 ## Başlangıç
 Bu depoyu yerel makinenizde klonlayın.
 ```
-git clone https://github.com/Lyndray/ProfitApp-withRedux.git
+git clone https://github.com/Lyndray/profitApp.git
 ```
 
 Kullanım
